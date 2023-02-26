@@ -5,7 +5,7 @@ numpy==1.21.6
 pandas==1.3.5
 CairoSVG==2.5.2
 -f https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge
-openbabel==3.1.1
+openbabel
 streamlit==1.15.1
 plotly==5.11.0
 scipy==1.7.3
