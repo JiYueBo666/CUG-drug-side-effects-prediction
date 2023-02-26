@@ -16,5 +16,4 @@ torch_geometric==2.1.0.post1
 torch-sparse
 -f https://data.pyg.org/whl/torch-1.13.0+cu116.html
 torch-scatter
--f https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge
-openbabel
+openbabel-wheel==3.1.1
