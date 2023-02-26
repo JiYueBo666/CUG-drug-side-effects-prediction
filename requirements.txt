@@ -4,8 +4,6 @@ translate==3.6.1
 numpy==1.21.6
 pandas==1.3.5
 CairoSVG==2.5.2
--f https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge
-openbabel
 streamlit==1.15.1
 plotly==5.11.0
 scipy==1.7.3
@@ -18,4 +16,5 @@ torch_geometric==2.1.0.post1
 torch-sparse
 -f https://data.pyg.org/whl/torch-1.13.0+cu116.html
 torch-scatter
-
+-f https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge
+openbabel
